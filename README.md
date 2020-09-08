@@ -1,3 +1,4 @@
+# Calculator App
 This project is a basic calculator app made in android studio for android devices.
 It has not been released yet, but the goal is to publish on the play store after some updates.
 
